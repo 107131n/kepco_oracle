@@ -7,3 +7,9 @@ This is a normal paragraph:
     This is a code block.
     
 end code block.
+
+
+![Alt text](/path/to/img.jpg "Optional title")
+
+
+[Google](https://google.com)
